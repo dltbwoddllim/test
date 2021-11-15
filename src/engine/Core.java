@@ -241,7 +241,7 @@ public final class Core {
 	 * Controls creation of new cooldowns with variance.
 	 * 
 	 * @param milliseconds
-	 *            Duration of the cooldown.
+	 *            Duration of the cooldown.f
 	 * @param variance
 	 *            Variation in the cooldown duration.
 	 * @return A new cooldown with variance.
